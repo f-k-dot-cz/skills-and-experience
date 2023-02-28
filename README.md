@@ -3,10 +3,10 @@ Almost regularly updated list of skills and experience
 
 ## Technologies
 
-Technology - what
-Used since - when / from when
-Confident - how / how much I am confident working with the specified technology
-Number of hours (est.) - estimated amount of hours coding / working in specified technology
+- Technology - what
+- Used since - when / from when
+- Confident - how / how much I am confident working with the specified technology
+- Number of hours (est.) - estimated amount of hours coding / working in specified technology
 
 
 
