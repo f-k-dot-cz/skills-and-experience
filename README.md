@@ -9,6 +9,8 @@ Almost regularly updated list of skills and experience
 - **Number of hours (est.)** - estimated amount of hours coding / working in specified technology
 
 
+
+
 | Technology | Used since | Confident | Number of hours (est.) |
 | --- | :---: | :---: | :---: |
 | JavaScript | 1999 | 95% | tbd. / 3 000 hrs |
