@@ -8,8 +8,8 @@ Almost regularly updated list of skills and experience
 - **Confident** - how / how much I am confident working with the specified technology
 - **Number of hours (est.)** - estimated amount of hours coding / working in specified technology
 
-
-
+ 
+ 
 
 | Technology | Used since | Confident | Number of hours (est.) |
 | --- | :---: | :---: | :---: |
