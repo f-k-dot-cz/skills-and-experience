@@ -16,5 +16,6 @@ ____
 | CSS | 1999 | 95% | tbd. / 2 000 hrs |
 | PHP | 2002 | 95% | tbd. / 3 000 hrs |
 | MySQL | 2006 | 90% | tbd. / 1 000 hrs |
+| Python | 2017 | 25% | 48 hrs |
 | Trello Power-Ups | 8/2018 | 20% | 8 hrs |
 | Trello | 2016 | 80% | 16 hrs |
