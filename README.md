@@ -21,6 +21,7 @@ ____
 | TailwindCSS | 2023 | 25% | (?) 12 hrs |
 | VueJS 2 | 2019 | 80% | (?) 100 hrs |
 | VueJS 3 | 2022 | 66% | (?) 20 hrs |
+| React | 2023 | 25% | (?) 4 hrs |
 | TypeScript | 2022 | 25% | (?) 20 hrs |
 | Trello Power-Ups | 8/2018 | 20% | 8 hrs |
 | Trello | 2016 | 80% | 16 hrs |
