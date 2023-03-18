@@ -19,7 +19,7 @@ ____
 | Python | 2017 | 25% | (?) 48 hrs |
 | Pug | 2023 | 25% | (?) 12 hrs |
 | TailwindCSS | 2023 | 25% | (?) 12 hrs |
-| VueJS 2 | 2019 | 80% | (?) 100 hrs |
+| VueJS 2 | 2019 | 80% | (?) 300 hrs |
 | VueJS 3 | 2022 | 66% | (?) 20 hrs |
 | React | 2023 | 25% | (?) 4 hrs |
 | TypeScript | 2022 | 25% | (?) 20 hrs |
