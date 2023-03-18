@@ -9,6 +9,8 @@ Almost regularly updated list of skills and experience
 - **Number of hours (est.)** - estimated amount of hours coding / working in specified technology
 ____
 
+### Web Applications
+
 | Technology | Used since | Confident | Number of hours (est.) |
 | --- | :---: | :---: | :---: |
 | HTML | 1999 | 95% | (?) 3 000 hrs |
@@ -25,3 +27,16 @@ ____
 | TypeScript | 2022 | 25% | (?) 20 hrs |
 | Trello Power-Ups | 8/2018 | 20% | 8 hrs |
 | Trello | 2016 | 80% | 16 hrs |
+
+### Graphic Software
+
+| Package | Used since | Confident | Number of hours (est.) |
+| --- | :---: | :---: | :---: |
+| Adobe Photoshop | 2008 | 80% | (?) 32 hrs |
+| Corel PaintShopPro | 2002 | 75% | (?) 48 hrs |
+| Affinity Photo | 2020 | 80% | (?) 48 hrs |
+| Affinity Designer | 2020 | 50% | (?) 100 hrs |
+| Affinity Publisher | 2021 | 20% | (?) 10 hrs |
+| AutoCAD (Architecture) | 2002 | 80% | (?) 800 hrs |
+| Blender | 2018 | 30% | (?) 60 hrs |
+| Maxon Cinema 4D | 2002 | 40% | (?) 300 hrs |
