@@ -37,6 +37,8 @@ ____
 | Affinity Photo | 2020 | 80% | (?) 48 hrs |
 | Affinity Designer | 2020 | 50% | (?) 100 hrs |
 | Affinity Publisher | 2021 | 20% | (?) 10 hrs |
-| AutoCAD (Architecture) | 2002 | 80% | (?) 800 hrs |
+| Autodesk AutoCAD (Architecture) | 2002 | 80% | (?) 2000 hrs |
+| Graphisoft ArchiCAD | 2005 | 50% | (?) 500 hrs |
+| Autodesk Revit | 2009 | 30% | (?) 300 hrs |
 | Blender | 2018 | 30% | (?) 60 hrs |
 | Maxon Cinema 4D | 2002 | 40% | (?) 300 hrs |
