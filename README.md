@@ -17,5 +17,10 @@ ____
 | PHP | 2002 | 95% | (?) 3 000 hrs |
 | MySQL | 2006 | 90% | (?) 1 000 hrs |
 | Python | 2017 | 25% | (?) 48 hrs |
+| Pug | 2023 | 25% | (?) 12 hrs |
+| TailwindCSS | 2023 | 25% | (?) 12 hrs |
+| VueJS 2 | 2019 | 80% | (?) 100 hrs |
+| VueJS 3 | 2022 | 66% | (?) 20 hrs |
+| TypeScript | 2022 | 25% | (?) 20 hrs |
 | Trello Power-Ups | 8/2018 | 20% | 8 hrs |
 | Trello | 2016 | 80% | 16 hrs |
