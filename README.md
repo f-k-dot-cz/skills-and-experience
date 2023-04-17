@@ -19,8 +19,8 @@ ____
 | PHP | 2002 | 95% | (?) 3 000 hrs |
 | MySQL | 2006 | 90% | (?) 1 000 hrs |
 | Python | 2017 | 25% | (?) 48 hrs |
-| Pug | 2023 | 25% | (?) 12 hrs |
-| TailwindCSS | 2023 | 25% | (?) 12 hrs |
+| Pug | 2023 | 40% | (?) 16 hrs |
+| TailwindCSS | 2023 | 40% | (?) 16 hrs |
 | VueJS 2 | 2019 | 80% | (?) 300 hrs |
 | VueJS 3 | 2022 | 66% | (?) 20 hrs |
 | React | 2023 | 25% | (?) 4 hrs |
@@ -34,11 +34,11 @@ ____
 | --- | :---: | :---: | :---: |
 | Adobe Photoshop | 2008 | 80% | (?) 32 hrs |
 | Corel PaintShopPro | 2002 | 75% | (?) 48 hrs |
-| Affinity Photo | 2020 | 80% | (?) 48 hrs |
+| Affinity Photo | 2020 | 80% | (?) 60 hrs |
 | Affinity Designer | 2020 | 50% | (?) 100 hrs |
 | Affinity Publisher | 2021 | 20% | (?) 10 hrs |
 | Autodesk AutoCAD (Architecture) | 2002 | 80% | (?) 2000 hrs |
 | Graphisoft ArchiCAD | 2005 | 50% | (?) 500 hrs |
 | Autodesk Revit | 2009 | 30% | (?) 300 hrs |
-| Blender | 2018 | 30% | (?) 60 hrs |
+| Blender | 2018 | 30% | (?) 70 hrs |
 | Maxon Cinema 4D | 2002 | 40% | (?) 300 hrs |
