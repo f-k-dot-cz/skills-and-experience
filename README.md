@@ -9,24 +9,54 @@ Almost regularly updated list of skills and experience
 - **Number of hours (est.)** - estimated amount of hours coding / working in specified technology
 ____
 
-### Web Applications
+### Programming languages used
+| Language | Used since | Confident | Number of hours (est.) |
+| C++/C# | 1997 | 10% | (?) 16 hrs | 
+| JavaScript | 1999 | 95% | (?) 3 000 hrs |
+| PHP | 2002 | 95% | (?) 3 000 hrs |
+| .NET | 2012 | 10% | (?) 16 hrs |
+| Java | 2014 | 10% | (?) 16 hrs |
+| Python | 2017 | 25% | (?) 48 hrs |
+| Kotlin | 2021 | 10% | (?) 8 hrs |
+| TypeScript | 2022 | 25% | (?) 20 hrs |
+
+### Markup languages / Templating used
 
 | Technology | Used since | Confident | Number of hours (est.) |
 | --- | :---: | :---: | :---: |
 | HTML | 1999 | 95% | (?) 3 000 hrs |
-| JavaScript | 1999 | 95% | (?) 3 000 hrs |
+| XSLT | 2013 | 30% | (?) 16 hrs |
+| Latte | 2015 | 50% | (?) 32 hrs |
+| Pug | 2023 | 50% | (?) 16 hrs |
+
+### Visual Appearance / Styling Definitions
+
+| Technology | Used since | Confident | Number of hours (est.) |
+| --- | :---: | :---: | :---: |
 | CSS | 1999 | 95% | (?) 2 000 hrs |
-| PHP | 2002 | 95% | (?) 3 000 hrs |
-| MySQL | 2006 | 90% | (?) 1 000 hrs |
-| Python | 2017 | 25% | (?) 48 hrs |
-| Pug | 2023 | 40% | (?) 16 hrs |
+| Less | 2016 | 95% | (?) 300 hrs |
+| Sass / Scss | 2016 | 90% | (?) 300 hrs |
+
+### Frameworks / Libraries used
+| Technology | Used since | Confident | Number of hours (est.) |
 | TailwindCSS | 2023 | 40% | (?) 16 hrs |
 | VueJS 2 | 2019 | 80% | (?) 300 hrs |
 | VueJS 3 | 2022 | 66% | (?) 20 hrs |
 | React | 2023 | 25% | (?) 4 hrs |
-| TypeScript | 2022 | 25% | (?) 20 hrs |
-| Trello Power-Ups | 8/2018 | 20% | 8 hrs |
+
+### Databases & ORMs
+| Technology | Used since | Confident | Number of hours (est.) | 
+| MySQL | 2006 | 90% | (?) 1 000 hrs |
+| Eloquent | 2018 | 66% | (?) 200 hrs |
+| Propel | 2013 | 20% | (?) 50 hrs |
+| Prisma | 2023 | 10% | (?) 4 hrs |
+
+### Project Management Tools / Add-ons
+| Tool | Used since | Confident | Number of hours (est.) | 
 | Trello | 2016 | 80% | 16 hrs |
+| Jira / Confluence + API | 2016 | 50% | 32 hrs |
+| Trello Power-Ups | 2018 | 20% | 8 hrs |
+| EasyProject + API | 2019 | 50% | 64 hrs |
 
 ### Graphic Software
 
