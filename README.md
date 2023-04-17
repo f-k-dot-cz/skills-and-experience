@@ -60,7 +60,7 @@ ____
 
 ### Project Management Tools / Add-ons
 
-| Tool | Used since | Confident | Number of hours (est.) | 
+| Tool | Used since | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
 | Trello | 2016 | 80% | 16 hrs | + |
 | Jira / Confluence + API | 2016 | 50% | 32 hrs | |
