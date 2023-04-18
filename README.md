@@ -77,7 +77,7 @@ ____
 | Graphisoft ArchiCAD | 2005 | 50% | (?) 500 hrs | |
 | Adobe Photoshop | 2008 | 80% | (?) 32 hrs | + |
 | Autodesk Revit | 2009 | 30% | (?) 300 hrs | |
-| Blender | 2014 | 30% | (?) 72 hrs | ⭐ |
+| Blender | 2014 | 30% | (?) 74 hrs | ⭐ |
 | Inkscape | 2017 | 60% | (?) 60 hrs | ⭐ |
 | Affinity Photo | 2020 | 80% | (?) 60 hrs | ⭐⭐ |
 | Affinity Designer | 2020 | 50% | (?) 100 hrs | ⭐ |
