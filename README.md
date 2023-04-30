@@ -4,7 +4,7 @@ Almost regularly updated list of skills and experience
 ## Technologies
 
 - **Technology** - what
-- **Used since** - when / from when
+- **Used since (end)** - when / from when, till - end of use
 - **Number of hours (est.)** - estimated amount of hours coding / working in specified technology
 - **Favorite** - Favorite technology / tool - more stars, more favorite / used
 ____
