@@ -12,12 +12,12 @@ ____
 
 ### Programming languages
 
-| Language | Used since | Confident | Number of hours (est.) | * |
+| Language | Used since (end) | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
-| C++/C# | 1997 | 10% | 16 hrs | |
+| C++/C# | 1997 (1998) | 10% | 16 hrs | |
 | JavaScript | 1999 | 95% | 3 200 hrs | ⭐⭐ |
 | PHP | 2002 | 95% | 3 000 hrs | ⭐ |
-| .NET | 2012 | 10% | 16 hrs | |
+| .NET | 2012 (2013) | 10% | 16 hrs | |
 | Java | 2014 | 10% | 16 hrs | |
 | Python | 2017 | 25% | 48 hrs | + |
 | Kotlin | 2021 | 10% | 8 hrs | |
@@ -25,10 +25,10 @@ ____
 
 ### Markup languages / Templating
 
-| Technology | Used since | Confident | Number of hours (est.) | * |
+| Technology | Used since (end) | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
 | HTML | 1999 | 95% | 3 000 hrs | ⭐ |
-| XSLT | 2013 | 30% | 16 hrs | |
+| XSLT | 2013 (2013) | 30% | 16 hrs | |
 | Latte | 2015 | 50% | 32 hrs | |
 | Pug | 2023 | 50% | 24 hrs | + |
 
@@ -42,10 +42,10 @@ ____
 
 ### Frameworks / Libraries
 
-| Technology | Used since | Confident | Number of hours (est.) | * |
+| Technology | Used since (end) | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
-| Zend | 2013 | 15% | 32 hrs | |
-| Symfony (v1) | 2013 | 25% | 16 hrs | |
+| Zend | 2013 (2015) | 15% | 32 hrs | |
+| Symfony (v1) | 2013 (2014) | 25% | 16 hrs | |
 | Nette | 2015 | 25% | 64 hrs | |
 | ThreeJS | 2019 | 50% | 16 hrs | + |
 | VueJS 2 | 2019 | 80% | 360 hrs | ⭐ |
@@ -79,14 +79,14 @@ ____
 
 ### Graphic Software
 
-| Package | Used since | Confident | Number of hours (est.) | * |
+| Package | Used since (end) | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
-| Corel (Jasc) PaintShopPro | 2002 | 75% | 64 hrs | + |
-| Autodesk AutoCAD (Architecture) | 2002 | 80% | 2 000 hrs | |
+| Corel (Jasc) PaintShopPro | 2002 (2018) | 75% | 64 hrs | + |
+| Autodesk AutoCAD (Architecture) | 2002 (2011) | 80% | 2 000 hrs | |
 | Maxon Cinema 4D | 2002 | 40% | 300 hrs | ⭐ | 
-| Graphisoft ArchiCAD | 2005 | 50% | 500 hrs | |
+| Graphisoft ArchiCAD | 2005 (2017) | 50% | 500 hrs | |
 | Adobe Photoshop | 2008 | 80% | 128 hrs | + |
-| Autodesk Revit | 2009 | 30% | 300 hrs | |
+| Autodesk Revit | 2009 (2011) | 30% | 300 hrs | |
 | Blender | 2014 | 30% | 80 hrs | ⭐ |
 | Inkscape | 2017 | 60% | 70 hrs | ⭐ |
 | Affinity Photo | 2020 | 80% | 70 hrs | ⭐⭐ |
