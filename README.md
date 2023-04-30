@@ -44,12 +44,17 @@ ____
 
 | Technology | Used since | Confident | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: | :---: |
-| VueJS 2 | 2019 | 80% | (?) 300 hrs | ⭐ |
-| VueJS 3 | 2022 | 66% | (?) 40 hrs | ⭐ |
+| Zend | 2013 | 15% | (?) 32 hrs | |
+| Symfony (v1) | 2013 | 25% | (?) 16 hrs | |
+| Nette | 2015 | 25% | (?) 64 hrs | |
+| ThreeJS | 2019 | 50% | (?) 16 hrs | + |
+| VueJS 2 | 2019 | 80% | (?) 360 hrs | ⭐ |
+| Laravel | 2019 | 66% | (?) 160 hrs | ⭐ |
+| VueJS 3 | 2022 | 66% | (?) 80 hrs | ⭐ |
+| Symfony (v5) | 2023 | 5% | (?) 4 hrs | |
 | Nuxt | 2023 | 33% | (?) 20 hrs | + |
 | TailwindCSS | 2023 | 40% | (?) 32 hrs | ⭐⭐ |
 | React | 2023 | 25% | (?) 4 hrs | |
-| ThreeJS | 2019 | 50% | (?) 16 hrs | + |
 
 ### Databases & ORMs
 
