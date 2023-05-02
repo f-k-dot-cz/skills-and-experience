@@ -51,7 +51,7 @@ ____
 | Laravel | 2019 | 160 hrs | ⭐ |
 | VueJS 3 | 2022 | 80 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 20 hrs | + |
+| Nuxt | 2023 | 24 hrs | + |
 | TailwindCSS | 2023 | 32 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
