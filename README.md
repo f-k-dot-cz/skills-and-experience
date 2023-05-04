@@ -20,7 +20,7 @@ ____
 | Java | 2014 | 16 hrs | |
 | Python | 2017 | 48 hrs | + |
 | Kotlin | 2021 | 8 hrs | |
-| TypeScript | 2022 | 20 hrs | + |
+| TypeScript | 2022 | 40 hrs | + |
 
 ### Markup languages / Templating
 
@@ -49,10 +49,10 @@ ____
 | ThreeJS | 2019 | 16 hrs | + |
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
-| VueJS 3 | 2022 | 80 hrs | ⭐ |
+| VueJS 3 | 2022 | 100 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 24 hrs | + |
-| TailwindCSS | 2023 | 32 hrs | ⭐⭐ |
+| Nuxt | 2023 | 32 hrs | + |
+| TailwindCSS | 2023 | 48 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
 ### Databases & ORMs
