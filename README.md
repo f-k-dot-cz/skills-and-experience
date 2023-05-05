@@ -14,13 +14,13 @@ ____
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
 | C++/C# | 1997 (1998) | 16 hrs | |
-| JavaScript | 1999 | 3 200 hrs | ⭐⭐ |
-| PHP | 2002 | 3 000 hrs | ⭐ |
+| JavaScript | 1999 | 4 000 hrs | ⭐⭐ |
+| PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
 | Python | 2017 | 48 hrs | + |
 | Kotlin | 2021 | 8 hrs | |
-| TypeScript | 2022 | 40 hrs | + |
+| TypeScript | 2022 | 44 hrs | + |
 
 ### Markup languages / Templating
 
@@ -51,8 +51,8 @@ ____
 | Laravel | 2019 | 160 hrs | ⭐ |
 | VueJS 3 | 2022 | 100 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 32 hrs | + |
-| TailwindCSS | 2023 | 48 hrs | ⭐⭐ |
+| Nuxt | 2023 | 36 hrs | + |
+| TailwindCSS | 2023 | 50 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
 ### Databases & ORMs
