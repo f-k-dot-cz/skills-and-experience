@@ -13,7 +13,7 @@ ____
 
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| C++/C# | 1997 (1998) | 16 hrs | |
+| C++/C# | 1997 (1998) / 2019 (Arduino) | 32 hrs | |
 | JavaScript | 1999 | 4 000 hrs | ⭐⭐ |
 | PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
