@@ -88,7 +88,7 @@ ____
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
 | Blender | 2014 | 80 hrs | ⭐ |
-| Inkscape | 2017 | 70 hrs | ⭐ |
+| Inkscape | 2017 | 75 hrs | ⭐ |
 | Affinity Photo | 2020 | 70 hrs | ⭐⭐ |
-| Affinity Designer | 2020 | 100 hrs | ⭐ |
+| Affinity Designer | 2020 | 102 hrs | ⭐ |
 | Affinity Publisher | 2021 | 10 hrs | + |
