@@ -3,7 +3,7 @@ Almost regularly updated list of skills and experience
 
 ## Mission
 
-- Create apps that help create better space around us and save time on boring stuff
+- Create apps that help create better space around us
 
 ## Vision
 
