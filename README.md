@@ -1,6 +1,14 @@
 # Skills and Experience
 Almost regularly updated list of skills and experience
 
+## Mission
+
+- Create apps that help create better space around us and save time on boring stuff
+
+## Vision
+
+- To be creative person designing / delivering quality and useful apps that helps
+
 ## Technologies
 
 - **Technology** - what
@@ -20,7 +28,7 @@ ____
 | Java | 2014 | 16 hrs | |
 | Python | 2017 | 48 hrs | + |
 | Dart | 2021 | 12 hrs | |
-| TypeScript | 2022 | 44 hrs | + |
+| TypeScript | 2022 | 72 hrs | + |
 
 ### Markup languages / Templating
 
@@ -49,11 +57,11 @@ ____
 | ThreeJS | 2019 | 16 hrs | + |
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
-| Flutter | 2021 | 24 hrs | + |
-| VueJS 3 | 2022 | 100 hrs | ⭐ |
+| Flutter | 2021 | 27 hrs | + |
+| VueJS 3 | 2022 | 120 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 36 hrs | + |
-| TailwindCSS | 2023 | 50 hrs | ⭐⭐ |
+| Nuxt | 2023 | 44 hrs | + |
+| TailwindCSS | 2023 | 70 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
 ### Databases & ORMs
