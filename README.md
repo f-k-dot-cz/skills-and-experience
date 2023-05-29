@@ -58,10 +58,10 @@ ____
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
 | Flutter | 2021 | 27 hrs | + |
-| VueJS 3 | 2022 | 120 hrs | ⭐ |
+| VueJS 3 | 2022 | 128 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 44 hrs | + |
-| TailwindCSS | 2023 | 70 hrs | ⭐⭐ |
+| Nuxt | 2023 | 46 hrs | + |
+| TailwindCSS | 2023 | 72 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
 ### Databases & ORMs
