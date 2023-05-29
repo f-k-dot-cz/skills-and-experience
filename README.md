@@ -26,7 +26,7 @@ ____
 | PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
-| Python | 2017 | 48 hrs | + |
+| Python | 2017 | 64 hrs | + |
 | Dart | 2021 | 12 hrs | |
 | TypeScript | 2022 | 72 hrs | + |
 
@@ -95,7 +95,7 @@ ____
 | Graphisoft ArchiCAD | 2005 (2017) | 500 hrs | |
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
-| Blender | 2014 | 80 hrs | ⭐ |
+| Blender | 2014 | 100 hrs | ⭐ |
 | Inkscape | 2017 | 75 hrs | ⭐ |
 | Affinity Photo | 2020 | 70 hrs | ⭐⭐ |
 | Affinity Designer | 2020 | 102 hrs | ⭐ |
