@@ -26,9 +26,9 @@ ____
 | PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
-| Python | 2017 | 64.00 hrs | + |
+| Python | 2017 | 64 hrs | + |
 | Dart | 2021 | 12 hrs | |
-| TypeScript | 2022 | 72.20 hrs | + |
+| TypeScript | 2022 | 86 hrs | + |
 
 ### Markup languages / Templating
 
@@ -58,9 +58,9 @@ ____
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
 | Flutter | 2021 | 27 hrs | + |
-| VueJS 3 | 2022 | 128.60 hrs | ⭐ |
+| VueJS 3 | 2022 | 144 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 46 hrs | + |
+| Nuxt | 2023 | 64 hrs | + |
 | TailwindCSS | 2023 | 72 hrs | ⭐⭐ |
 | React | 2023 | 4 hrs | |
 
