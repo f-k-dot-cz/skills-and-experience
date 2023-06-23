@@ -29,7 +29,7 @@ ____
 | Java | 2014 | 16 hrs | |
 | Python | 2017 | 64 hrs | + |
 | Dart | 2021 | 12 hrs | |
-| TypeScript | 2022 | 86 hrs | + |
+| TypeScript | 2022 | 120 hrs | + |
 
 ### Markup languages / Templating
 
