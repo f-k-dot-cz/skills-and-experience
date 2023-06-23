@@ -21,7 +21,8 @@ ____
 
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| C++/C# | 1997 (1998) / 2019 (Arduino) | 32 hrs | |
+| C++ | 1997 (1998) / 2019 (Arduino) | 32 hrs | |
+| C# | 2019 | 12 hrs | |
 | JavaScript | 1999 | 4 000 hrs | ⭐⭐ |
 | PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
@@ -58,10 +59,10 @@ ____
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
 | Flutter | 2021 | 27 hrs | + |
-| VueJS 3 | 2022 | 144 hrs | ⭐ |
+| VueJS 3 | 2022 | 160 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 64 hrs | + |
-| TailwindCSS | 2023 | 72 hrs | ⭐⭐ |
+| Nuxt | 2023 | 80 hrs | + |
+| TailwindCSS | 2023 | 75 hrs | ⭐⭐ |
 | React | 2023 | 9 hrs | |
 
 ### Databases & ORMs
