@@ -62,7 +62,7 @@ ____
 | Symfony (v5) | 2023 | 4 hrs | |
 | Nuxt | 2023 | 64 hrs | + |
 | TailwindCSS | 2023 | 72 hrs | ⭐⭐ |
-| React | 2023 | 4 hrs | |
+| React | 2023 | 9 hrs | |
 
 ### Databases & ORMs
 
