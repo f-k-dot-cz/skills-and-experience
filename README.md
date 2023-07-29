@@ -22,20 +22,20 @@ ____
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
 | C++ | 1997 (1998) / 2019 (Arduino) | 32 hrs | |
-| C# | 2019 | 12 hrs | |
+| C# | 2019 | 16 hrs | |
 | JavaScript | 1999 | 4 000 hrs | ⭐⭐ |
 | PHP | 2002 | 2 000 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
-| Python | 2017 | 64 hrs | + |
-| Dart | 2021 | 12 hrs | |
-| TypeScript | 2022 | 120 hrs | + |
+| Python | 2017 | 68 hrs | + |
+| Dart | 2021 | 18 hrs | |
+| TypeScript | 2022 | 180 hrs | + |
 
 ### Markup languages / Templating
 
 | Technology | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| HTML | 1999 | 3 000 hrs | ⭐ |
+| HTML | 1999 | 3 100 hrs | ⭐ |
 | XSLT | 2013 (2013) | 16 hrs | |
 | Latte | 2015 | 32 hrs | |
 | Pug | 2023 | 24 hrs | + |
@@ -55,15 +55,15 @@ ____
 | Zend | 2013 (2015) | 32 hrs | |
 | Symfony (v1) | 2013 (2014) | 16 hrs | |
 | Nette | 2015 | 64 hrs | |
-| ThreeJS | 2019 | 16 hrs | + |
+| ThreeJS | 2019 | 24 hrs | + |
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
-| Flutter | 2021 | 27 hrs | + |
-| VueJS 3 | 2022 | 160 hrs | ⭐ |
+| Flutter | 2021 | 32 hrs | + |
+| VueJS 3 | 2022 | 180 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 80 hrs | + |
-| TailwindCSS | 2023 | 75 hrs | ⭐⭐ |
-| React | 2023 | 9 hrs | |
+| Nuxt | 2023 | 90 hrs | + |
+| TailwindCSS | 2023 | 80 hrs | ⭐⭐ |
+| React | 2023 | 55 hrs | |
 
 ### Databases & ORMs
 
