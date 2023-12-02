@@ -93,7 +93,7 @@ ____
 | Corel (Jasc) PaintShopPro | 2002 (2018) | 64 hrs | + |
 | Autodesk AutoCAD (Architecture) | 2002 (2011) | 2 000 hrs | |
 | Maxon Cinema 4D | 2002 | 300 hrs | ⭐ | 
-| Graphisoft ArchiCAD | 2005 (2017) | 500 hrs | |
+| Graphisoft ArchiCAD | 2005 | 530 hrs | |
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
 | Blender | 2014 | 120 hrs | ⭐ |
