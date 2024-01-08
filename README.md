@@ -27,8 +27,8 @@ ____
 | PHP | 2002 | 2 100 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
-| Python | 2017 | 68 hrs | + |
-| Dart | 2021 | 32 hrs | |
+| Python | 2017 | 72 hrs | + |
+| Dart | 2021 | 40 hrs | + |
 | TypeScript | 2022 | 360 hrs | + |
 
 ### Markup languages / Templating
@@ -93,11 +93,11 @@ ____
 | Corel (Jasc) PaintShopPro | 2002 (2018) | 64 hrs | + |
 | Autodesk AutoCAD (Architecture) | 2002 (2011) | 2 000 hrs | |
 | Maxon Cinema 4D | 2002 | 300 hrs | ⭐ | 
-| Graphisoft ArchiCAD | 2005 | 530 hrs | + |
+| Graphisoft ArchiCAD | 2005 | 610 hrs | ⭐ |
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
-| Blender | 2014 | 120 hrs | ⭐ |
-| Inkscape | 2017 | 75 hrs | ⭐ |
-| Affinity Photo | 2020 | 80 hrs | ⭐⭐ |
-| Affinity Designer | 2020 | 120 hrs | ⭐ |
+| Blender | 2014 | 140 hrs | ⭐ |
+| Inkscape | 2017 | 80 hrs | ⭐ |
+| Affinity Photo | 2020 | 100 hrs | ⭐⭐ |
+| Affinity Designer | 2020 | 140 hrs | ⭐ |
 | Affinity Publisher | 2021 | 10 hrs | + |
