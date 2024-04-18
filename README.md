@@ -23,7 +23,7 @@ ____
 | --- | :---: | :---: | :---: |
 | C++ | 1997 (1998) / 2019 (Arduino) | 36 hrs | |
 | C# | 2019 | 16 hrs | |
-| JavaScript | 1999 | 4 200 hrs | ⭐⭐ |
+| JavaScript | 1999 | 4 250 hrs | ⭐⭐ |
 | PHP | 2002 | 2 100 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
@@ -93,11 +93,17 @@ ____
 | Corel (Jasc) PaintShopPro | 2002 (2018) | 64 hrs | + |
 | Autodesk AutoCAD (Architecture) | 2002 (2011) | 2 000 hrs | |
 | Maxon Cinema 4D | 2002 | 300 hrs | ⭐ | 
-| Graphisoft ArchiCAD | 2005 | 610 hrs | ⭐ |
+| Graphisoft ArchiCAD | 2005 | 680 hrs | ⭐ |
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
-| Blender | 2014 | 140 hrs | ⭐ |
-| Inkscape | 2017 | 80 hrs | ⭐ |
-| Affinity Photo | 2020 | 100 hrs | ⭐⭐ |
-| Affinity Designer | 2020 | 140 hrs | ⭐ |
+| Blender | 2014 | 160 hrs | ⭐ |
+| Inkscape | 2017 | 90 hrs | ⭐ |
+| Affinity Photo | 2020 | 120 hrs | ⭐⭐ |
+| Affinity Designer | 2020 | 150 hrs | ⭐ |
 | Affinity Publisher | 2021 | 10 hrs | + |
+
+### Video Editing Software
+
+| Package | Used since (end) | Number of hours (est.) | * |
+| --- | :---: | :---: | :---: |
+| Kdenlive | 2023 | 4 hrs | |
