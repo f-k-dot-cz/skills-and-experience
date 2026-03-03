@@ -21,21 +21,21 @@ ____
 
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| C++ | 1997 (1998) / 2019 (Arduino) | 36 hrs | |
+| C++ | 1997 (1998) / 2019 (Arduino) | 52 hrs | |
 | C# | 2019 | 16 hrs | |
-| JavaScript | 1999 | 4 250 hrs | ⭐⭐ |
-| PHP | 2002 | 2 100 hrs | ⭐ |
+| JavaScript | 1999 | 4 750 hrs | ⭐⭐ |
+| PHP | 2002 | 2 200 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
-| Python | 2017 | 72 hrs | + |
-| Dart | 2021 | 40 hrs | + |
-| TypeScript | 2022 | 360 hrs | + |
+| Python | 2017 | 80 hrs | + |
+| Dart | 2021 | 60 hrs | + |
+| TypeScript | 2022 | 400 hrs | + |
 
 ### Markup languages / Templating
 
 | Technology | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| HTML | 1999 | 3 200 hrs | ⭐ |
+| HTML | 1999 | 3 400 hrs | ⭐ |
 | XSLT | 2013 (2013) | 16 hrs | |
 | Latte | 2015 | 32 hrs | |
 | Pug | 2023 | 24 hrs | + |
@@ -44,9 +44,9 @@ ____
 
 | Technology | Used since | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| CSS | 1999 | 2 000 hrs | + |
+| CSS | 1999 | 2 100 hrs | + |
 | Less | 2014 | 300 hrs | ⭐ |
-| Sass / Scss | 2016 | 600 hrs | ⭐ |
+| Sass / Scss | 2016 | 640 hrs | ⭐ |
 
 ### Frameworks / Libraries
 
@@ -59,10 +59,10 @@ ____
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
 | Flutter | 2021 | 32 hrs | + |
-| VueJS 3 | 2022 | 270 hrs | ⭐ |
+| VueJS 3 | 2022 | 320 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 120 hrs | + |
-| TailwindCSS | 2023 | 120 hrs | ⭐⭐ |
+| Nuxt | 2023 | 150 hrs | + |
+| TailwindCSS | 2023 | 130 hrs | ⭐⭐ |
 | React | 2023 | 120 hrs | |
 
 ### Databases & ORMs
@@ -84,7 +84,7 @@ ____
 | Trello Power-Ups | 2018 | 8 hrs | ⭐ |
 | EasyProject + API | 2019 | 64 hrs | |
 | DigitalOcean | 2019 | 16 hrs | |
-| Google Cloud / AppScript | 2020 | 24 hrs | |
+| Google Cloud / AppScript | 2020 | 25 hrs | |
 
 ### Graphic Software
 
@@ -98,12 +98,23 @@ ____
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
 | Blender | 2014 | 160 hrs | ⭐ |
 | Inkscape | 2017 | 90 hrs | ⭐ |
-| Affinity Photo | 2020 | 120 hrs | ⭐⭐ |
-| Affinity Designer | 2020 | 150 hrs | ⭐ |
+| Affinity Photo | 2020 | 130 hrs | ⭐⭐ |
+| Affinity Designer | 2020 | 160 hrs | ⭐ |
 | Affinity Publisher | 2021 | 10 hrs | + |
 
 ### Video Editing Software
 
 | Package | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| Kdenlive | 2023 | 4 hrs | |
+| Kdenlive | 2023 | 16 hrs | |
+
+### GPTs / LLMs / Tools
+
+| Package | Used since (end) | Number of hours (est.) | * |
+| --- | :---: | :---: | :---: |
+| Google Gemini | 2025 | 100 hrs | ⭐⭐ |
+| Antigravity | 2025 | 50 hrs | ⭐⭐ |
+| ChatGPT | 2023 | 200 hrs | + |
+| Perplexity | 2025 | 30 hrs | + |
+| Stable Diffusion (local) | 2024 | 20 hrs | + |
+| Runway | 2024 | 4 hrs | + |
