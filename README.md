@@ -113,7 +113,7 @@ ____
 
 | Package | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| Claude Code | 2026 | 100 hrs | ⭐⭐ |
+| Claude Code | 2026 | 300 hrs | ⭐⭐ |
 | Ollama / local - Gemma4 | 2026 | 10 hrs | ⭐ |
 | Google Gemini | 2025 | 300 hrs | ⭐ |
 | Antigravity | 2025 | 50 hrs | ⭐ |
