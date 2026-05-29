@@ -21,9 +21,9 @@ ____
 
 | Language | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| C++ | 1997 (1998) / 2019 (Arduino) | 52 hrs | |
+| C++ | 1997 (1998) / 2019 (Arduino) | 80 hrs | |
 | C# | 2019 | 16 hrs | |
-| JavaScript | 1999 | 4 750 hrs | ⭐⭐ |
+| JavaScript | 1999 | 5 000 hrs | ⭐⭐ |
 | PHP | 2002 | 2 200 hrs | ⭐ |
 | .NET | 2012 (2013) | 16 hrs | |
 | Java | 2014 | 16 hrs | |
@@ -55,15 +55,15 @@ ____
 | Zend | 2013 (2015) | 32 hrs | |
 | Symfony (v1) | 2013 (2014) | 16 hrs | |
 | Nette | 2015 | 64 hrs | |
-| ThreeJS | 2019 | 24 hrs | + |
+| ThreeJS | 2019 | 32 hrs | + |
 | VueJS 2 | 2019 | 360 hrs | ⭐ |
 | Laravel | 2019 | 160 hrs | ⭐ |
-| Flutter | 2021 | 32 hrs | + |
-| VueJS 3 | 2022 | 320 hrs | ⭐ |
+| Flutter | 2021 | 80 hrs | + |
+| VueJS 3 | 2022 | 600 hrs | ⭐ |
 | Symfony (v5) | 2023 | 4 hrs | |
-| Nuxt | 2023 | 150 hrs | + |
+| Nuxt | 2023 | 200 hrs | + |
 | TailwindCSS | 2023 | 130 hrs | ⭐⭐ |
-| React | 2023 | 120 hrs | |
+| React | 2023 | 150 hrs | |
 
 ### Databases & ORMs
 
@@ -96,11 +96,12 @@ ____
 | Graphisoft ArchiCAD | 2005 | 680 hrs | ⭐ |
 | Adobe Photoshop | 2008 | 128 hrs | + |
 | Autodesk Revit | 2009 (2011) | 300 hrs | |
-| Blender | 2014 | 160 hrs | ⭐ |
-| Inkscape | 2017 | 90 hrs | ⭐ |
-| Affinity Photo | 2020 | 130 hrs | ⭐⭐ |
+| Blender | 2014 | 300 hrs | ⭐ |
+| Inkscape | 2017 | 100 hrs | ⭐ |
+| Affinity Photo | 2020 | 150 hrs | ⭐⭐ |
 | Affinity Designer | 2020 | 160 hrs | ⭐ |
 | Affinity Publisher | 2021 | 10 hrs | + |
+| Nomad Sculpt | 2026 | 16 hrs | |
 
 ### Video Editing Software
 
@@ -112,9 +113,20 @@ ____
 
 | Package | Used since (end) | Number of hours (est.) | * |
 | --- | :---: | :---: | :---: |
-| Google Gemini | 2025 | 100 hrs | ⭐⭐ |
-| Antigravity | 2025 | 50 hrs | ⭐⭐ |
-| ChatGPT | 2023 | 200 hrs | + |
-| Perplexity | 2025 | 30 hrs | + |
+| Claude Code | 2026 | 100 hrs | ⭐⭐ |
+| Ollama / local - Gemma4 | 2026 | 10 hrs | ⭐ |
+| Google Gemini | 2025 | 300 hrs | ⭐ |
+| Antigravity | 2025 | 50 hrs | ⭐ |
+| ChatGPT | 2023 | 240 hrs | + |
+| Perplexity | 2025 | 50 hrs | + |
 | Stable Diffusion (local) | 2024 | 20 hrs | + |
 | Runway | 2024 | 4 hrs | + |
+
+### IOT / Prototyping / other
+
+| Package | Used since (end) | Number of hours (est.) | * |
+| --- | :---: | :---: | :---: |
+| 3D Printing - Creality Ender 3 Pro | 2020 | 200 hrs | ⭐⭐ |
+| M5 Atom Lite / ESP32 Dev | 2021 | 60 hrs | |
+| Utilizing Grove sensors | 2021 | 30 hrs | |
+
